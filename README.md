@@ -9,4 +9,11 @@
 <li>Home</li>
 <li>About</li>
 <li>Gallery</li>
+</ol>
+
+**Project Tools:**<ol>
+<li>Foundation</li>
+<li></li>
+<li></li>
+</ol>
                   
