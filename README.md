@@ -13,8 +13,7 @@
 
 **Project Tools:**<ol>
 <li>Foundation</li>
-<li></li>
-<li></li>
+
 </ol>
                   
 # Misha The Future
@@ -29,7 +28,6 @@
 
 **Project Tools:**<ol>
 <li>Foundation</li>
-<li></li>
-<li></li>
+
 </ol>
                   
