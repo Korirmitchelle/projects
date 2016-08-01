@@ -33,3 +33,24 @@
 
 </ol>
                   
+
+
+# SecureIt
+**Repository link:** https://github.com/Korirmitchelle/SecureIt
+
+
+**Project Description:** A website for Cyber Security Company
+
+**Project Features:**<ol>
+<li>About</li>
+<li>Technologies</li>
+<li>Services</li>
+<li>Contact Us</li>
+</ol>
+
+**Project Tools:**<ol>
+<li>Foundation</li>
+<li>jquery</li>
+
+</ol>
+                  
